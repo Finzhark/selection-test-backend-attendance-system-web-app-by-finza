@@ -1,0 +1,11 @@
+{
+  "name": "selection-test-backend-attendance-system-web-app-by-finza",
+  "version": "1.0.0",
+  "description": "for-selection-test-attendance-system-web-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Finzhark",
+  "license": "ISC"
+}
